@@ -7,7 +7,7 @@
 - HTML/CSS (I can make a small website)
 - Python/Javascript (50/50 prof.)
 
-##Terminology
+## Terminology
 - **not ok**: The thing doesn't work or something along the lines of that.
 - **still**: If it's still it's alright
 
