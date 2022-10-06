@@ -7,9 +7,8 @@
 - HTML/CSS (I can make a small website)
 - Python/Javascript (50/50 prof.)
 
-I'm looking forward to programming with the Github community!!!11!
+##Terminology
+- **not ok**: The thing doesn't work or something along the lines of that.
+- **still**: If it's still it's alright
 
-<!---
-otidev/otidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm looking forward to programming with the Github community!!!11!
