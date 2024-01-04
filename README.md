@@ -3,4 +3,4 @@
 
 I mainly code in C99, but sometimes other languages. I always like to make code that helps the community, or code that's just cool.
 
-I'm looking forward to programming with the Github community! :smile:
+I'm looking forward to programming with the Github community! :smile:✝️
